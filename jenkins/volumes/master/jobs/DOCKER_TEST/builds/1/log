@@ -1,0 +1,8 @@
+Started by user [8mha:////4KWrwXeKV+AZfdvc4wyWP5Q4HzJTIR9juXQ/Aqvp1YG6AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building remotely on [8mha:////4MSQavFMVOLlB4t1lkwic1Knf88OGzdMMnsj7yqHGkwlAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQifT9/F1dDAHjR2ovEAAAA[0mNODE1 in workspace /Users/kapilkumar/Documents/Documents/jobsearch/TestAssingments/UI/ui-testing-framework/jenkins/volumes/node/workspace/DOCKER_TEST
+[DOCKER_TEST] $ /bin/sh -xe /var/folders/qj/zn2b7vw57414__th_yjh6x0h0000gn/T/jenkins11438735475342420484.sh
++ docker ps
+CONTAINER ID   IMAGE                 COMMAND                  CREATED             STATUS             PORTS                                              NAMES
+e24b778e9c3c   jenkins/jenkins:lts   "/usr/bin/tini -- /u…"   About an hour ago   Up About an hour   0.0.0.0:8080->8080/tcp, 0.0.0.0:50000->50000/tcp   jenkins-jenkins-1
+Finished: SUCCESS

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jenkins/volumes/master/caches/git-74b56ae393e2153faa5e2d05a01ab7e1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jenkins/volumes/node/workspace/SELENIUM_DOCKER_BUILDER" vcs="Git" />
+  </component>
+</project>
